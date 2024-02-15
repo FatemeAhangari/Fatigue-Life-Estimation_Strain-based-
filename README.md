@@ -17,15 +17,15 @@ This phase represents a comprehensive investigation into loading effects and fat
 The critical notches of an unsmooth surface has been distinguished by implimentation of PSD algorithm. The critical notches and their geometries are provided in Figure 1.
 
 <p align="center">
-  <img src="images/Fig_1.PNG" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_1.png" alt="Image Alt Text" width = 500>
 </p>
 The surface geometry including its notches has been modeled and meshed in Abaqus CAE as Figure 2.
 <p align="center">
-  <img src="images/Fig_2.PNG" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_2.png" alt="Image Alt Text" width = 500>
 </p>
 The extracted concentraion factors for each critical notch also are prepared by FEA simulation as Figure 3.
 <p align="center">
-  <img src="images/Fig_3.PNG" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_3.png" alt="Image Alt Text" width = 500>
 </p>
 
 
@@ -33,11 +33,11 @@ The extracted concentraion factors for each critical notch also are prepared by 
 Two different loading conditions are considered in order to investigate the effect of loading as Figure 4 and 5.
 
 <p align="center">
-  <img src="images/Fig_4.PNG" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_4.png" alt="Image Alt Text" width = 500>
 </p>
 
 <p align="center">
-  <img src="images/Fig_5.PNG" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_5.png" alt="Image Alt Text" width = 500>
 </p>
 
 # Procedure
